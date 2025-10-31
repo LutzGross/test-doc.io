@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Example'
-copyright = 'workshop participant'
-author = 'workshop participant'
-release = '0.1'
+copyright = 'Hitzacker'
+author = 'LG'
+release = '1.1'
 
 
 # -- General configuration ---------------------------------------------------
