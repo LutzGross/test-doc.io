@@ -14,4 +14,4 @@ Welcome to Example's documentation!
    another-feature.md
 
    :caption: API
-   api.rst
+   api
